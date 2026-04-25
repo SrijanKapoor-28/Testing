@@ -1,0 +1,5 @@
+password.txt
+db.sql
+*.docx
+practice/
+!gitandgithub.docx
