@@ -4,3 +4,4 @@ for i in range(0,5):
     if(t[i]==n):
         print("yes")
         break
+
